@@ -7,7 +7,7 @@ Daily Log on SortShort Project
 
 Properties corresponding for Iphone 13 Pro Max (428x926).
 
-Typography
+- Typography
 
 //styleName: H1;
 font-family: Poppins;
@@ -48,6 +48,9 @@ font-weight: 600;
 line-height: 17px;
 letter-spacing: 0em;
 text-align: left;
+
+- Main Color: rgba(16, 97, 255, 1); black; white
+
 
 
 

@@ -4,7 +4,8 @@ Daily Log on SortShort Project
 <img src = './readme_src/banner 1_ pika.png'/>
 
 # View Current Progress
-- Go to <a href = "https://github.com/users/VietTung0801/projects/3" > https://github.com/users/VietTung0801/projects/3 </a>
+- Progress <a href = "https://github.com/users/VietTung0801/projects/3" > https://github.com/users/VietTung0801/projects/3 </a>
+- Figma file: coming soon
 
 # Basics
 

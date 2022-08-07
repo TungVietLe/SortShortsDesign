@@ -4,7 +4,7 @@ Daily Log on SortShort Project
 <img src = './readme_src/banner 1_ pika.png'/>
 
 # View Current Progress
-- Go to <a href = "https://github.com/users/VietTung0801/projects/3" target = ''> https://github.com/users/VietTung0801/projects/3 </a>
+- Go to <a href = "https://github.com/users/VietTung0801/projects/3" > https://github.com/users/VietTung0801/projects/3 </a>
 
 # Basics
 
